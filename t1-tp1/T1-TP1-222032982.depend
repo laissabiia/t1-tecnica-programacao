@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1719441540 source:c:\users\laissa.silva\onedrive - vert\documentos\tp 1 - projeto 1\testetp1\main.cpp
+	<iostream>
+	"Dominios.h"
+	"Entidades.h"
+	"Testes_dominios.h"
+	"Testes_entidades.h"
+
+1719535562 source:c:\users\laissa.silva\onedrive - vert\documentos\tp 1 - projeto 1\testetp1\dominios.cpp
+	"Dominios.h"
+
+1719534006 c:\users\laissa.silva\onedrive - vert\documentos\tp 1 - projeto 1\testetp1\dominios.h
+	<stdexcept>
+	<iostream>
+	<string>
+	<regex>
+	<vector>
+	<set>
+	<unordered_set>
+
+1719434704 source:c:\users\laissa.silva\onedrive - vert\documentos\tp 1 - projeto 1\testetp1\testes.cpp
+	"Testes.h"
+	"Entidades.h"
+	<cmath>
+
+1719434778 c:\users\laissa.silva\onedrive - vert\documentos\tp 1 - projeto 1\testetp1\testes.h
+	"Dominios.h"
+	"Entidades.h"
+
+1719535828 c:\users\laissa.silva\onedrive - vert\documentos\tp 1 - projeto 1\testetp1\entidades.h
+	"Dominios.h"
+	<string>
+
+1719442314 source:c:\users\laissa.silva\onedrive - vert\documentos\tp 1 - projeto 1\testetp1\entidades.cpp
+	"Entidades.h"
+
+1719535788 source:c:\users\laissa.silva\onedrive - vert\documentos\tp 1 - projeto 1\testetp1\testes_dominios.cpp
+	"Testes_dominios.h"
+	<cmath>
+
+1719535003 c:\users\laissa.silva\onedrive - vert\documentos\tp 1 - projeto 1\testetp1\testes_dominios.h
+	"Dominios.h"
+
+1719442153 c:\users\laissa.silva\onedrive - vert\documentos\tp 1 - projeto 1\testetp1\testes_entidades.h
+	"Entidades.h"
+
+1719442248 source:c:\users\laissa.silva\onedrive - vert\documentos\tp 1 - projeto 1\testetp1\testes_entidades.cpp
+	"Testes_entidades.h"
+
+1719850356 source:c:\users\laissa.silva\onedrive - vert\documentos\tp 1 - projeto 1\t1-tp1\dominios.cpp
+	"Dominios.h"
+
+1719850356 c:\users\laissa.silva\onedrive - vert\documentos\tp 1 - projeto 1\t1-tp1\dominios.h
+	<stdexcept>
+	<iostream>
+	<string>
+	<regex>
+	<vector>
+	<set>
+	<unordered_set>
+
+1719442314 source:c:\users\laissa.silva\onedrive - vert\documentos\tp 1 - projeto 1\t1-tp1\entidades.cpp
+	"Entidades.h"
+
+1719847291 c:\users\laissa.silva\onedrive - vert\documentos\tp 1 - projeto 1\t1-tp1\entidades.h
+	"Dominios.h"
+
+1719441540 source:c:\users\laissa.silva\onedrive - vert\documentos\tp 1 - projeto 1\t1-tp1\main.cpp
+	<iostream>
+	"Dominios.h"
+	"Entidades.h"
+	"Testes_dominios.h"
+	"Testes_entidades.h"
+
+1719850519 c:\users\laissa.silva\onedrive - vert\documentos\tp 1 - projeto 1\t1-tp1\testes_dominios.h
+	"Dominios.h"
+
+1719442153 c:\users\laissa.silva\onedrive - vert\documentos\tp 1 - projeto 1\t1-tp1\testes_entidades.h
+	"Entidades.h"
+
+1719535788 source:c:\users\laissa.silva\onedrive - vert\documentos\tp 1 - projeto 1\t1-tp1\testes_dominios.cpp
+	"Testes_dominios.h"
+	<cmath>
+
+1719442248 source:c:\users\laissa.silva\onedrive - vert\documentos\tp 1 - projeto 1\t1-tp1\testes_entidades.cpp
+	"Testes_entidades.h"
+
