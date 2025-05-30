@@ -1,6 +1,6 @@
 # 💼 Sistema de Gerenciamento de Conta Bancária
 
-Projeto desenvolvido na disciplina **Técnicas de Programação 1 - UnB** com foco na aplicação de conceitos de programação orientada a objetos, testes automatizados, modularização e documentação técnica com Doxygen.
+Projeto desenvolvido na disciplina **CIC0197 - Técnicas de Programação 1 da UnB**, sob orientação do professor **Doutor Fernando Chacon de Albuquerque**, com foco na aplicação de conceitos de programação orientada a objetos, testes automatizados, modularização e documentação técnica com Doxygen.
 
 ---
 
